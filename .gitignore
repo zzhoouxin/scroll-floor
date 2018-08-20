@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+
+build
+
+/.idea
+/.idea/*
+/*/.idea/*
+/*.iml
+/*/*.iml
+node_modules
+public
