@@ -8,14 +8,11 @@
 
 
 ## 运行步骤
-1. `npm install`  ——下载依赖
+1. ` npm install`  ——下载依赖
 2. ` node index` ——启动node服务
-  以下提示表示成功：
-  server start successful on : 3000
-  浏览器中访问：
-  localhost:3000/view/index.html
-
-
+3. ` server start successful on : 3000` ——以下提示表示成功：
+4. ` localhost:3000/view/index.html` --浏览器中访问：
+  
 
 ## 项目目录结构
 
